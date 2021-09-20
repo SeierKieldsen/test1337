@@ -4,5 +4,7 @@ public class test1337 {
 
         System.out.println("HEllo CHRistianasdsad");
 
+
+        System.out.println("Hold nu kæft");
     }
 }
