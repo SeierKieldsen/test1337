@@ -1,28 +1,15 @@
-import java.util.Scanner;
 
 public class test1337 {
 
-    public static void main(String[] args) {
+    public static void main(String [] args) {
 
         System.out.println("HEllo CHRistianasdsad");
 
-
         System.out.println("Hold nu kæft");
-
-        //kan du lige indsætte en scanner her
-        //JA det kan jeg godt!! :D
-
-        Scanner input = new Scanner(System.in);
-
-       //Hvad skal vi lave???????
-
-        //asdasdsadsadsadsa
-
-        //aksksjs
 
 
         System.out.println("Jeg er her også");
 
-        System.out.println("cruft er den bedste sport i verden");
+        System.out.print("cruft er den bedste sport i verden");
     }
 }
