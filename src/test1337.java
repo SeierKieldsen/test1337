@@ -22,5 +22,7 @@ public class test1337 {
 
 
         System.out.println("Jeg er her også");
+        int input;
+        
     }
 }
