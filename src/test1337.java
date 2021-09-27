@@ -15,6 +15,12 @@ public class test1337 {
         Scanner input = new Scanner(System.in);
 
        //Hvad skal vi lave???????
-//mjaaa
+
+        //asdasdsadsadsadsa
+
+        //aksksjs
+
+
+        System.out.println("Jeg er her også");
     }
 }
