@@ -17,5 +17,6 @@ public class test1337 {
        //Hvad skal vi lave???????
 
         System.out.print("Seier Junior er ankommet til tråden");
+        System.out.println("hej");
     }
 }
