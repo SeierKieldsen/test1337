@@ -7,5 +7,8 @@ public class test1337 {
         System.out.println("Hold nu kæft");
         System.out.println("Jeg er her også");
         System.out.print("cruft er den bedste sport i verden");
-    }
-}
+
+
+        System.out.println("jeg ved ikke om det virker");
+        }
+        }
